@@ -1,4 +1,4 @@
-package main.java;
+package com.tdd;
 
 public class Pair {
 	private String from;

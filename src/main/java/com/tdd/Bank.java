@@ -1,4 +1,4 @@
-package main.java;
+package com.tdd;
 
 import java.util.Hashtable;
 
